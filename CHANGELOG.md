@@ -1,6 +1,11 @@
 # Change Log
 
 ## [Unreleased]
+### Fixed
+- Command Update - Fix the ssl environment variable.
+
+### Added
+- Command Update - Add the new FOREST_DB_DIALECT environment variable to be able to configure project fastly.
 
 ## Release 1.14.1
 ### Fixed
