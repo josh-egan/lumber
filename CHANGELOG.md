@@ -1,6 +1,9 @@
 # Change Log
 
 ## [Unreleased]
+### Added
+- Updates - Warn users if an update of Lumber is available.
+
 ### Changed
 - Improvement - Reduce the number of http requests to init the project.
 - Technical - Rename environment variable SERVER_HOST to FOREST_URL.
